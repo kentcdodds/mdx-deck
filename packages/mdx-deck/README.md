@@ -207,7 +207,7 @@ and it will stay in sync with the other window.
 [egghead]: https://egghead.io/lessons/react-build-a-slide-deck-with-mdx-deck-using-markdown-react
 [kent c. dodds]: https://mobile.twitter.com/kentcdodds
 [kcd-video]: http://youtu.be/d2sQiI5NFAM?a
-[kcd-medium]: https://blog.kentcdodds.com/mdx-deck-slide-decks-powered-by-markdown-and-react-bfc6d6af20da
+[kcd-medium]: https://kentcdodds.com/blog/mdx-deck-slide-decks-powered-by-markdown-and-react
 [hw-video]: https://www.youtube.com/watch?v=LvP2EqCiQMg&feature=youtu.be
 [hw-demo]: https://github.com/hswolff/mdx-deck-demo
 [harry wolff]: https://mobile.twitter.com/hswolff
